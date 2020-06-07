@@ -1,7 +1,7 @@
 ################## Hero area ##################
 hero_area:
   enable : true
-  bg_image : "images/header.jpg"
+  bg_image : "images/header_new.jpeg"
   overlay : true
 
 ################### Gallery ###################
@@ -21,7 +21,7 @@ gallery:
 ################ About #######################
 about:
   enable : true
-  image : "images/cooker-img.png"
+  image : "images/lisa_giulia.png"
   title : "CHI SIAMO"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
   
@@ -41,6 +41,7 @@ pricing:
   subtitle : "Abbonamenti trimestrali"
   pricing_item:
   - title: "Danza"
+    image : "images/lisa_giulia.png"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "€ 125.00"
 

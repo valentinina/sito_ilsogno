@@ -73,7 +73,7 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 # meta data
 author = "Luca Pasut"
 description = "This is meta description"
@@ -90,26 +90,26 @@ preloader = "" # use .png , .svg or .gif format
 ################################### Footer ############################
 [params.footer]
 enable = true
-contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
+contactInfoTitle = "CONTAT<span>TI</span>"
+blogTitle = "LE ULTIME <span>NEWS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+socialTitle = "SEGUI<span>CI</span>"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
-title="Telephone"
+title="Telefono"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "3493703954"
 
 [[params.footer.contactItem]]
-title="Address"
+title="Indirizzo"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "Via Peruzza 7, 33170, Pordenone (PN)"
 
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "associazioneilsogno@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
@@ -133,16 +133,8 @@ image = "images/slider/slider-img-2.jpg"
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/asdilsogno"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://www.instagram.com/asdilsogno"
