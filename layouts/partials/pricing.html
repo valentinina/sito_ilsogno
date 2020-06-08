@@ -16,7 +16,9 @@
 						<ul>
 							{{ range .pricing_item }}
 							<li class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
+								<img src="{{.image | relURL }}" alt="icon">
 								<div class="item">
+									<!-- <img src="{{.image | relURL }}" alt="icon"> -->
 									<div class="item-title">
 										<h2>{{.title}}</h2>
 										<div class="border-bottom"></div>
@@ -31,7 +33,7 @@
 				</div>
 			</div><!-- .col-md-12 close -->
 		</div><!-- .row close -->
-	</div><!-- .containe close -->
+	</div><!-- .container close -->
 </section><!-- #price close -->
 {{end}}
 {{end}}

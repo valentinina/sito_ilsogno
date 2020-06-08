@@ -2,7 +2,7 @@
 hero_area:
   enable : true
   bg_image : "images/header_new.jpeg"
-  overlay : true
+  overlay : false
 
 ################### Gallery ###################
 gallery:
@@ -30,10 +30,10 @@ blog:
   enable : true
   title : "Le ultime news"
   bg_image : "images/danza.jpg"
-  overlay : true
+  overlay : false
 
 
-################# food Menu ################
+################# Pricing ################
 pricing:
   enable : true
   title : "La nostra offerta formativa"
@@ -41,19 +41,22 @@ pricing:
   subtitle : "Abbonamenti trimestrali"
   pricing_item:
   - title: "Danza"
-    image : "images/lisa_giulia.png"
+    image : "images/lisa.png"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "€ 125.00"
 
   - title: "Danza Adulti"
+    image : "images/giulia.png"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "€ 100.00"
 
   - title: "Circuit Fit"
+    image : "images/vale.jpg"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "€ 20.00"
 
   - title: "Chinese Stretching"
+    image : "images/enea.jpg"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "€ 45.00"
 
