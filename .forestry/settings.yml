@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: ''
-  label: config.toml
+  path: data/homepage.yml
+  label: homepage.yml
   match: "**/*"
+- type: document
+  path: config.yml
+  label: config.toml
 - type: directory
   path: data
   label: Data
@@ -16,7 +19,7 @@ sections:
   new_doc_ext: yml
 - type: directory
   path: content
-  label: Pages
+  label: Blog
   create: all
   match: "*"
   templates:
