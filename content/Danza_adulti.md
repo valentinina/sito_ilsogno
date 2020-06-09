@@ -3,6 +3,7 @@ title: "Danza Adulti"
 date: 2018-12-12T04:28:21+06:00
 image: images/blog/danza_adulti.jpg
 description: "this is meta description"
+author: Giulia
 type: "post"
 ---
 

@@ -3,6 +3,7 @@ title: "Circuit Fit"
 date: 2018-12-26T12:28:47+06:00
 image: images/blog/circuit_fit.jpg
 description: "this is meta description"
+author: Valentina
 type: "post"
 ---
 
