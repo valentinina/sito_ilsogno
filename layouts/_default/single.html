@@ -1,15 +1,15 @@
 {{ define "main" }}
 
-{{- partial "header.html" . -}}
+{{/*  {{- partial "header.html" . -}}  */}}
 
-{{/*  <section class="section blog-single-page">
+<section class="section blog-single-page">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <img class="img-responsive post-thumb d-inline-block" src="{{ .Params.image | absURL }}" alt="blog-image">
                 <h1 class="post-title">{{ .Title }}</h1>
                 <ul class="list-inline mb-50 post-meta">
-                    <li class="list-inline-item">{{ .Params.author }}</li>
+                    <li class="list-inline-item text-primary">{{ .Params.author }}</li>
                     <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
                 </ul>
             </div>
@@ -20,20 +20,6 @@
             </div>
         </div>
     </div>
-</section>  */}}
-<section class="post">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center">
-        <img class="img-responsive post-thumb d-inline-block" src="{{ .Params.image | absURL }}" alt="blog-image">
-          <h3 class="font-tertiary mb-5"><b>{{.Title}}</b></h3>
-          <p class="font-secondary">{{ i18n "PUBLISHED_ON" }} {{ .PublishDate.Format "Jan 02, 2006" }} {{ i18n "BY" }} <span class="text-primary">{{.Params.author}}</span></p>
-          <div class="markdown-body">
-          {{.Content | emojify}}
-          <br><br>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+</section>
+
 {{ end }}
