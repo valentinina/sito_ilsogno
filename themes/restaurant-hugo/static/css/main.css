@@ -314,11 +314,11 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   background-attachment: fixed;
   position: relative;
 }
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   #blog {
   background-attachment: initial;
         }
-}
+} */
 
 #blog .block .heading {
   color: #fff;
