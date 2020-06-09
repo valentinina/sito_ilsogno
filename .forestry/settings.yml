@@ -4,15 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: data/homepage.yml
-  label: homepage.yml
-- type: document
-  path: config.toml
-  label: config.toml
+- type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*"
+  new_doc_ext: yml
 - type: directory
   path: content
-  label: Blog
+  label: Pages
   create: all
   match: "*"
   templates:
