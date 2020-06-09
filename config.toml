@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "ilsogno.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "7"
