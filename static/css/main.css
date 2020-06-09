@@ -111,7 +111,7 @@ a:active {
 
 .heading span {
   font-size: 45px;
-  color: #ff530a;
+  color: #ff0ab5;
   font-weight: 600;
 }
 
@@ -136,7 +136,7 @@ a:active {
 }
 
 .title span {
-  color: #FF5333;
+  color: #ff0ab5;
 }
 
 .before-border {
@@ -559,7 +559,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price .block .pricing-list ul li .item .item-title span {
   float: right;
-  color: #938463;
+  color: #f00b7d;
 }
 
 #price .block .pricing-list ul li .item p {
@@ -772,7 +772,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block h3 span {
-  color: #FF4F02;
+  color: #ff0ab5;
 }
 
 #footer .block .blog ul,
@@ -825,7 +825,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block .social-media-link h3 span {
-  color: #FF4F02;
+  color: #ff0ab5;
 }
 
 #footer .block .social-media-link ul li {
