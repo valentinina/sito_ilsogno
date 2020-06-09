@@ -475,7 +475,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #blog .block .btn-more-info:hover {
   background: transparent;
   color: var(--primary-color);
-  border: 1px solid var(--primary-color);
+  border: 1px solid #7EC3BB;
 }
 
 .blog-single-page .post-thumb {
