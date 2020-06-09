@@ -174,7 +174,7 @@ px      68    160    252    */
     border: none;
   }
   nav .block .navbar-default .navbar-header .navbar-toggle .icon-bar {
-    background: #ff0ab5;
+    background: var(--primary-color);
   }
   nav .block .navbar-default .navbar-header .navbar-toggle:focus {
     background: none;

@@ -716,7 +716,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #contact-us .block form input:focus {
-  border: 1px solid #7EC3BB;
+  border: 1px solid var(--primary-color);
 }
 
 #contact-us .block form textarea {
