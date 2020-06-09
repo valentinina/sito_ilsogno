@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/homepage.yml
   label: homepage.yml
-  match: "**/*"
 - type: document
   path: config.toml
   label: config.toml
