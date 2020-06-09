@@ -1,3 +1,6 @@
 [submodule "themes/restaurant-hugo"]
 	path = themes/restaurant-hugo
 	url = https://github.com/valentinina/restaurant-hugo
+[submodule "themes/restaurant-hugo1"]
+	path = themes/restaurant-hugo1
+	url = https://github.com/valentinina/restaurant-hugo
