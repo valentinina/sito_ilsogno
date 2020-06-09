@@ -559,7 +559,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #price .block .pricing-list ul li .item .item-title span {
   float: right;
-  color: #f00b7d;
+  color: #ff0ab5;
 }
 
 #price .block .pricing-list ul li .item p {
@@ -733,7 +733,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #contact-us .block button {
-  background: #FF4F02;
+  background: #ff0ab5;
   float: right;
   color: #fff;
   font-weight: 600;
@@ -806,7 +806,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .blog ul li h4 a,
 #footer .block .info ul li h4 a,
 #footer .block .gallary ul li h4 a {
-  color: #FF4F02;
+  color: #ff0ab5;
   font-size: 20px;
   font-weight: 600;
 }
