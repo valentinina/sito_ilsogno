@@ -30,6 +30,7 @@ copyright = "Copyright &copy; {year}"
 description = "This is meta description"
 google_analitycs_id = "Your ID"
 logo = "images/logo.jpg"
+theme_color = "#ff0ab5"
 [params.footer]
 blogTitle = "LE ULTIME <span>NEWS</span>"
 contactInfoTitle = "CONTAT<span>TI</span>"
