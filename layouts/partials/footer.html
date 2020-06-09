@@ -67,7 +67,7 @@
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
 				<div class="block">
-					<p>{{ .Site.Params.copyright | markdownify }}</p>
+					<p> {{ with .Site.Params.copyright }}{{ replace . "{year}" now.Year | markdownify | emojify}} {{end}}</p>
 				</div>
 			</div>
 		</div>
