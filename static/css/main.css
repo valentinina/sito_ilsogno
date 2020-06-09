@@ -461,7 +461,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   float: right;
   padding: 28px 102.5px;
   border-radius: 0px;
-  background: #ff530a;
+  background: #ff0ab5;
   color: #fff;
   border: 1px solid transparent;
   text-transform: uppercase;
@@ -474,8 +474,8 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #blog .block .btn-more-info:hover {
   background: transparent;
-  color: #ff530a;
-  border: 1px solid #ff530a;
+  color: #ff0ab5;
+  border: 1px solid #ff0ab5;
 }
 
 .blog-single-page .post-thumb {
@@ -582,7 +582,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #price .block .pricing-list .btn:hover {
-  background: #ff530a;
+  background: #ff0ab5;
   color: #fff;
 }
 
