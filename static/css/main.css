@@ -571,8 +571,8 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
-  color: #FF4F02;
-  border: 1px solid #FF4F02;
+  color: #ff0ab5;
+  border: 1px solid #ff0ab5;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
@@ -792,7 +792,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .gallary ul li h4 {
   padding-bottom: 10px;
   display: block;
-  color: #FF4F02;
+  color: #ff0ab5;
 }
 
 #footer .block .blog ul li h4 i,
@@ -849,7 +849,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block .social-media-link ul li a:hover {
-  background: #FF4F02;
+  background: #ff0ab5;
   color: #fff;
 }
 
@@ -871,7 +871,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer-bottom p a {
-  color: #FF4F02;
+  color: #ff0ab5;
 }
 
 /* slider */
@@ -911,7 +911,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .slick-dots li.slick-active button {
-  background: #FF4F02;
+  background: #ff0ab5;
 }
 
 .gallery-slider .slick-arrow {
@@ -954,11 +954,11 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
-  color: #FF4F02
+  color: #ff0ab5
 }
 
 .pagination .page-item .page-link:hover {
-  background: #FF4F02;
+  background: #ff0ab5;
   color: #fff
 }
 
@@ -968,7 +968,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .pagination .page-item.active .page-link {
-  background: #FF4F02;
+  background: #ff0ab5;
   color: #fff;
-  border-color: #FF4F02
+  border-color: #ff0ab5
 }
