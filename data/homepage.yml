@@ -49,9 +49,8 @@ pricing:
     price: "€ 100.00"
   - title: Circuit Fit
     image: images/vale.jpg
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&
-    price: "€ 20.00"
+    description: "“La vita è fatta di alti e bassi io li chiamo squat”"
+    price: "€ 115.00"
   - title: Chinese Stretching
     image: images/enea.jpg
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
