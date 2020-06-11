@@ -1,7 +1,7 @@
 ---
 title: "Danza Adulti"
 date: 2020-06-11T04:28:21+06:00
-image: images/blog/danza_adulti.jpg
+image: images/danza_adulti.jpg
 description: "this is meta description"
 author: Giulia
 type: "post"

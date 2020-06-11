@@ -1,7 +1,7 @@
 ---
 title: "Chinese Stretching"
 date: 2020-06-11T12:30:01+06:00
-image: images/blog/chinese.jpg
+image: images/chinese.jpg
 description: "this is meta description"
 author: Enea
 type: "post"

@@ -1,7 +1,7 @@
 ---
 title: "Danza"
 date: 2020-06-11T12:23:10+06:00
-image: images/blog/danza.jpg
+image: images/danza_blog.jpg
 description: "this is meta description"
 author: Lisa
 type: "post"

@@ -1,7 +1,7 @@
 ---
 title: Circuit Fit
 date: 2020-06-11T00:00:00.000+01:00
-image: images/blog/circuit_fit.jpg
+image: images/circuit_fit.jpg
 description: Allenamento funzionale a circuito
 author: Valentina
 type: post
