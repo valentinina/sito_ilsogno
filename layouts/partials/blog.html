@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="block">
-					<h1 class="heading">{{ .Site.Data.homepage.blog.title | markdownify }}</h1>
+					<h1 class="heading">{{ .Site.Data.homepage.blog.title | markdownify | emojify }}</h1>
 					<ul>
 						{{ $paginator := .Paginate .Site.RegularPages }}
 						{{ range $paginator.Pages }}
@@ -15,7 +15,7 @@
 							</div>
 							<div class="content-right">
 								<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-								<p>{{ .Summary }}</p>
+								<p style="font-size: 16px;">{{ .Summary | markdownify | emojify }}</p>
 							</div>
 						</li>
 						{{ end }}

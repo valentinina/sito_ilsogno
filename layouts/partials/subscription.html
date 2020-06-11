@@ -6,9 +6,9 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1 class=" heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">{{ .title | markdownify }}
+          <h1 class=" heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">{{ .title | markdownify | emojify }}
           </h1>
-          <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">{{ .description | markdownify }}</p>
+          <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">{{ .description | markdownify | emojify }}</p>
           <div class="subscription-form">
             <!-- Begin Mailchimp Signup Form -->
             <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

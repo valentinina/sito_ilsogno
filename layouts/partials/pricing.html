@@ -6,12 +6,12 @@
 			<div class="col-md-12">
 				<div class="block">
 					<h1 class="heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
-						{{ .title | markdownify }}</h1>
+						{{ .title | markdownify | emojify }}</h1>
 					<p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
-						{{ .description | markdownify }}</p>
+						{{ .description | markdownify | emojify }}</p>
 					<div class="pricing-list">
 						<div class="title">
-							<h3>{{ .subtitle | markdownify }}</h3>
+							<h3>{{ .subtitle | markdownify | emojify }}</h3>
 						</div>
 						<ul>
 							{{ range .pricing_item }}
@@ -20,11 +20,11 @@
 								<div class="item">
 									<!-- <img src="{{.image | relURL }}" alt="icon"> -->
 									<div class="item-title">
-										<h2>{{.title}}</h2>
+										<h2>{{.title | markdownify | emojify }}</h2>
 										<div class="border-bottom"></div>
 										<span>{{.price}}</span>
 									</div>
-									<p>{{.description}}</p>
+									<p style="font-size: 16px;">{{.description | markdownify | emojify }}</p>
 								</div>
 							</li>
 							{{ end }}

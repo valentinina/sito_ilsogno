@@ -14,8 +14,8 @@
                 </ul>
             </div>
             <div class="col-md-8 col-md-offset-2">
-                <div class="post-single-content">
-                    {{ .Content }}
+                <div class="markdown-body">
+                    {{ .Content | emojify}}
                 </div>
             </div>
         </div>
