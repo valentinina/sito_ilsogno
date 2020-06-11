@@ -1,5 +1,5 @@
 baseURL = "https://ilsogno.netlify.app"
-languageCode = "en-us"
+languageCode = "it"
 paginate = 4
 summaryLength = "7"
 theme = "restaurant-hugo"
@@ -30,8 +30,8 @@ copyright = "Copyright &copy; {year}"
 description = "ASD Il Sogno"
 google_analitycs_id = "Your ID"
 logo = "images/logo.jpg"
-theme_color = "#ff0ab5"
 number_post = 4
+theme_color = "#ff0ab5"
 [params.footer]
 blogTitle = "LE ULTIME <span>NEWS</span>"
 contactInfoTitle = "CONTAT<span>TI</span>"
