@@ -1,10 +1,14 @@
 ---
-title: "Circuit Fit"
-date: 2018-12-26T12:28:47+06:00
+title: Circuit Fit
+date: 2018-12-26T12:28:47.000+06:00
 image: images/blog/circuit_fit.jpg
-description: "this is meta description"
+description: Allenamento funzionale a circuito
 author: Valentina
-type: "post"
----
+type: post
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic. Deleniti eos ipsum, nihil ex id ipsa porro, accusantium, accusamus dignissimos harum, veniam culpa. Voluptate doloremque aspernatur neque vero tenetur numquam expedita ratione, sed, error exercitationem officia voluptatum molestiae quod impedit facilis, dolores laudantium quae rem! Rem obcaecati eum pariatur error quasi consequuntur repellendus aliquam vero perferendis, praesentium. Quas nulla, quae tempore omnis facere reiciendis, voluptatibus illum nemo consequuntur, magni voluptas doloremque eveniet quasi soluta porro sit cum? Alias a rerum natus, repellendus voluptas libero! Deleniti aut, sunt.
+---
+L’**allenamento funzionale** è la nuova forma di allenamento che riprende i movimenti naturali del corpo sollecitando tutti i muscoli in profondità. Si basa sull’esecuzione di esercizi a corpo libero o con l’aiuto di piccoli attrezzi (manubri, kettlebell, corda....)
+
+L'allenamento funzionale a circuito favorisce la coordinazione/agilità del corpo e definisce la muscolatura.
+
+Questa attività permette di ottenere risultati notevoli sia da un punto di vista estetico che da un punto di vista prestazionale, oltre ad essere un momento di svago e una valvola di sfogo per scaricarsi dallo stress della routine.
