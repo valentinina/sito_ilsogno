@@ -51,11 +51,11 @@ content = "associazioneilsogno@gmail.com"
 icon = "fa fa-envelope"
 title = "E mail"
 [[params.footer.gallery]]
-image = "images/slider-img-1.jpg"
+image = "images/danza_blog.jpg"
 [[params.footer.gallery]]
-image = "images/slider-img-2.jpg"
+image = "images/danza_adulti.jpg"
 [[params.footer.gallery]]
-image = "images/slider-img-3.jpg"
+image = "images/circuit_fit.jpg"
 [[params.footer.gallery]]
 image = "images/slider-img-4.jpg"
 [[params.footer.gallery]]

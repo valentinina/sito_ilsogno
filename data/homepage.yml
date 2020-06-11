@@ -7,14 +7,14 @@ gallery:
   enable: true
   title: GALLERIA
   images:
-  - images/slider-img-1.jpg
-  - images/slider-img-2.jpg
-  - images/slider-img-3.jpg
+  - images/danza_blog.jpg
+  - images/danza_adulti.jpg
+  - images/circuit_fit.jpg
   - images/slider-img-4.jpg
   - images/slider-img-5.jpg
   - images/slider-img-6.jpg
   - images/slider-img-7.jpg
-  - images/slider-img-8.jpg
+  - images/chinese.jpg
 about:
   enable: true
   image: images/lisa_giulia.png
