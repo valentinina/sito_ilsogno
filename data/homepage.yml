@@ -1,79 +1,72 @@
-################## Hero area ##################
+---
 hero_area:
-  enable : true
-  bg_image : "images/header_new.jpeg"
-  overlay : false
-
-################### Gallery ###################
+  enable: true
+  bg_image: images/header_new.jpeg
+  overlay: false
 gallery:
-  enable : true
-  title : "GALLERIA"
+  enable: true
+  title: GALLERIA
   images:
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
-    - "images/slider/slider-img-5.jpg"
-    - "images/slider/slider-img-6.jpg"
-    - "images/slider/slider-img-7.jpg"
-    - "images/slider/slider-img-8.jpg"
-
-################ About #######################
+  - images/slider/slider-img-1.jpg
+  - images/slider/slider-img-2.jpg
+  - images/slider/slider-img-3.jpg
+  - images/slider/slider-img-4.jpg
+  - images/slider/slider-img-5.jpg
+  - images/slider/slider-img-6.jpg
+  - images/slider/slider-img-7.jpg
+  - images/slider/slider-img-8.jpg
 about:
-  enable : true
-  image : "images/lisa_giulia.png"
-  title : "CHI SIAMO"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
-  
-################# Blog ######################
+  enable: true
+  image: images/lisa_giulia.png
+  title: CHI SIAMO
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam
 blog:
-  enable : true
-  title : "Le ultime news"
-  bg_image : "images/danza.jpg"
-  overlay : false
-
-
-################# Pricing ################
+  enable: true
+  title: 'Lasciati ispirare '
+  bg_image: images/danza.jpg
+  overlay: false
 pricing:
-  enable : true
-  title : "La nostra offerta formativa"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  subtitle : "Abbonamenti trimestrali"
+  enable: true
+  title: La nostra offerta formativa
+  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco"
+  subtitle: Abbonamenti trimestrali
   pricing_item:
-  - title: "Danza"
-    image : "images/lisa.png"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "€ 125.00"
-
-  - title: "Danza Adulti"
-    image : "images/giulia.png"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "€ 100.00"
-
-  - title: "Circuit Fit"
-    image : "images/vale.jpg"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "€ 20.00"
-
-  - title: "Chinese Stretching"
-    image : "images/enea.jpg"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "€ 45.00"
-
-################### Subscription ################
+  - title: Danza
+    image: images/lisa.png
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&
+    price: "€ 125.00"
+  - title: Danza Adulti
+    image: images/giulia.png
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&
+    price: "€ 100.00"
+  - title: Circuit Fit
+    image: images/vale.jpg
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&
+    price: "€ 20.00"
+  - title: Chinese Stretching
+    image: images/enea.jpg
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&
+    price: "€ 45.00"
 subscription:
-  enable : false
-  bg_image : "images/subscribe-bg.jpg"
-  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
-  #Mailchimp subscription configaration 
-  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
-  overlay : true
-
-################ Contact #######################
+  enable: false
+  bg_image: images/subscribe-bg.jpg
+  title: SUBSCRIBE to our <span>NEWSLETTER</span>
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  form_action: https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e
+  formName: b_f95ece2732a6e9925f2e70a61_b1e227529e
+  overlay: true
 contact:
-  enable : true
-  title: "Contattaci"
-  subtitle: "Scrivici per qualsiasi informazione"
-  form_action : "#" #contact form works with formspree.io
+  enable: true
+  title: Contattaci
+  subtitle: Scrivici per qualsiasi informazione
+  form_action: "#"
