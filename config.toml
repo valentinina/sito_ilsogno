@@ -27,7 +27,7 @@ weight = 6
 [params]
 author = "Luca Pasut"
 copyright = "Copyright &copy; {year}"
-description = "This is meta description"
+description = "ASD Il Sogno"
 google_analitycs_id = "Your ID"
 logo = "images/logo.jpg"
 theme_color = "#ff0ab5"

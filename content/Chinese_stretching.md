@@ -1,6 +1,6 @@
 ---
 title: "Chinese Stretching"
-date: 2018-12-26T12:30:01+06:00
+date: 2020-06-11T12:30:01+06:00
 image: images/blog/chinese.jpg
 description: "this is meta description"
 author: Enea
